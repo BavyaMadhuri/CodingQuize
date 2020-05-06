@@ -118,7 +118,7 @@
          "choice1": "pointer",
          "choice2": "default",
          "choice3": "arrow",
-         "choice4": "",
+         "choice4": "arr",
          "answer": 2
      },
      {
