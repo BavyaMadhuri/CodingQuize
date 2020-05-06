@@ -1,0 +1,165 @@
+[
+
+    
+    {
+        "question": "Inside which HTML element do we put JavaScript?",
+        "choice1": "<script>",
+        "choice2": "<javascript>",
+        "choice3": "<js>",
+        "choice4": "<scripting>",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script calles 'abc.js' ? ",
+        "choice1": "<script href='abc.js'>",
+        "choice2": "<script name='abc.js'>",
+        "choice3": "<script src='abc.js'>",
+        "choice4": "<script file='abc.js'>",
+        "answer": 3
+     },
+     {
+        "question": "How do you write 'Hello World' in an alert box?",
+         "choice1": "msgbox('Hello World')", 
+         "choice2": "alertbox('Hello World')",
+         "choice3": "msg('Hello World')",
+         "choice4": "alert('Hello World')",
+         "answer": 4
+     },
+     {
+        "question": "HTML is what type of language ?",
+         "choice1": "Scripting Language",
+         "choice2": "Markup Language",
+         "choice3": "Programming Language",
+         "choice4": "Network Protocol",
+         "answer":2
+     },
+     {
+        "question": "HTML uses",
+         "choice1": "User defined tags",
+         "choice2": "Pre-specified tags",
+         "choice3": "Fixed tags defined by the language",
+         "choice4": "Tags only for linking",
+         "answer": 3
+     },
+     {
+        "question": "Apart from <b> tag, what other tag makes text bold ?",
+         "choice1": "<fat>",
+         "choice2": "<strong>",
+         "choice3": "<black>",
+         "choice4": "<emp>",
+         "answer": 2
+     },
+     {
+        "question": "What is the full form of HTML?",
+         "choice1": "HyperText Markup Language",
+         "choice2": "Hyper Teach Markup Language",
+         "choice3": "Hyper Tech Markedup Language",
+         "choice4": "None of these",
+         "answer": 1
+     },
+     {
+        "question": " What should be the first tag in any HTML document?",
+         "choice1": "<head>",
+         "choice2": "<title>",
+         "choice3": "<document>",
+         "choice4": "<html>",
+         "answer":4 
+     },
+     {
+        "question": "Which is not a primitive data type in JavaScript?",
+         "choice1": "boolean",
+         "choice2": "number",
+         "choice3": "string",
+         "choice4": "character",
+         "answer": 4
+     },
+     {
+        "question": "The function call Math.ceil(3.5) returns:",
+         "choice1": "Throws a MathError exception",
+         "choice2": "4",
+         "choice3": "0",
+         "choice4": "3",
+         "answer": 2
+     },
+     {
+        "question": "Which of these is a correct method to create a new array in JavaScript?",
+         "choice1": "var myArray = [];",
+         "choice2": "var myArray = ();",
+         "choice3": "var myArray = new Array[];",
+         "choice4": "var myArray = {};",
+         "answer": 1
+     },
+     {
+        "question":"Which of these operators compares two variables by value AND type?",
+         "choice1": "===",
+         "choice2": "==",
+         "choice3": "=",
+         "choice4":"None of these",
+         "answer":1 
+     },
+     {
+        "question": "How would one declare a string variable?",
+         "choice1": "Any of these",
+         "choice2": "var fName = “Mary”;",
+         "choice3": "var names = “7”;",
+         "choice4": "var fName = new String;",
+         "answer": 1
+     },
+     {
+        "question": "If we want define style for an unique element, then which css selector will we use ?",
+         "choice1": "Id",
+         "choice2": "text",
+         "choice3": "class",
+         "choice4": "name",
+         "answer": 1
+     },
+     {
+        "question": "If we want to show an Arrow as cursor, then which value we will use ?",
+         "choice1": "pointer",
+         "choice2": "default",
+         "choice3": "arrow",
+         "choice4": "",
+         "answer": 2
+     },
+     {
+        "question": "If we want to wrap a block of text around an image, which css property will we use ?",
+         "choice1": "wrap",
+         "choice2": "push",
+         "choice3": "float",
+         "choice4": "align",
+         "answer": 3
+     },
+     {
+        "question": "If we don't want to allow a floating div to the left side of an element, which css property will we use ?",
+         "choice1": "marigin",
+         "choice2": "float",
+         "choice3": "clear",
+         "choice4": "padding",
+         "answer": 3
+     },
+     {
+        "question": "If we want to use a nice looking green dotted border around an image, which css property will we use? ",
+         "choice1": "border-color",
+         "choice2": "border-decoration",
+         "choice3": "border-style",
+         "choice4": "border-line",
+         "answer": 3
+     },
+     {
+         "question":"Which of the following properties will we use to display border around a cell without any content ?",
+         "choice1":"empty-cell",
+         "choice2":"blank-cell",
+         "choice3":"noncontent-cell",
+         "choice4":"void-cell",
+         "answer":1
+     },
+     {
+        "question":"Which CSS property is used to control the text size of an element ?",
+        "choice1":"font-style",
+        "choice2":"text-size",
+        "choice3":"text-style",
+        "choice4":"font-size",
+        "answer":4
+    }
+ 
+ ]
